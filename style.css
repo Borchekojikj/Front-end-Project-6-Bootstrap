@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding-top: 56px;
+}
+.banner {
+    background-image: url(./images/home.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(100vh - 56px);
+    background-color: rgb(90, 90, 90);
+    background-blend-mode: multiply;
+}
+
+.form {
+    background-color: var(--bs-indigo);
+}
